@@ -32,6 +32,7 @@ Sistemas e Lógica de Baixo Nível:
 
 
 📫 Conecte-se Comigo
+
 Estou sempre aberto a networking e discussões sobre tecnologia. Sinta-se à vontade para entrar em contato.
 
 
