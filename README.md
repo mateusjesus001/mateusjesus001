@@ -31,9 +31,10 @@ Sistemas e Lógica de Baixo Nível:
 </div>
 
 
+
 📫 Conecte-se Comigo
 
 Estou sempre aberto a networking e discussões sobre tecnologia. Sinta-se à vontade para entrar em contato.
 
 
-[![Email](mateusjesusdiogo@gmail.com)
+mateusjesusdiogo@gmail.com
