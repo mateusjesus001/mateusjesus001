@@ -29,6 +29,7 @@ Sistemas e Lógica de Baixo Nível:
 <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C">
 <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++">
 </div>
+<br>
 
 
 
@@ -36,5 +37,4 @@ Sistemas e Lógica de Baixo Nível:
 
 Estou sempre aberto a networking e discussões sobre tecnologia. Sinta-se à vontade para entrar em contato.
 
-
-mateusjesusdiogo@gmail.com
+Email: mateusjesusdiogo@gmail.com
