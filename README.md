@@ -38,7 +38,7 @@ Sistemas e Lógica de Baixo Nível:
 Estou sempre aberto a networking e discussões sobre tecnologia. Sinta-se à vontade para entrar em contato.
 
 
-<div align="center">
+<div>
 <a href="https://www.linkedin.com/in/mateus-jesus-625a08382/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
