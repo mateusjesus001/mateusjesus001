@@ -1,6 +1,9 @@
-<img align="center" alt="Computer" height="30" width="30" src="https://raw.githubusercontent.com/MateusJesus/MateusJesus/main/assets/icons/computer.png" /> Mateus Jesus
+<div align="center">
+<h1 style="color: #0077B5; font-weight: bold; font-family: 'Arial', sans-serif;">Mateus Jesus</h1>
+<h3 style="color: #6c757d;">Desenvolvedor de Software | Estudante de Ciência da Computação</h3>
+</div>
+<br>
 
-Desenvolvedor de Software | Estudante de Ciência da Computação
 Estudante da Universidade Estadual da Paraíba (UEPB), com uma forte base em múltiplas linguagens e paradigmas de programação. Tenho experiência prática na construção de sistemas de baixo nível em C/C++ e no desenvolvimento de aplicações web robustas e dinâmicas com Python, Java, .NET e React. Meu objetivo é aplicar minhas habilidades para resolver problemas complexos e entregar soluções eficientes e de alta qualidade.
 
 🛠️ Competências e Habilidades
