@@ -92,6 +92,8 @@ Documentação e exploração de serviços e endpoints de APIs.
 
 🧠 Fundamentos da Computação e Engenharia
 Estruturas de Dados e Algoritmos.
+
+
 Análise de Complexidade e Desempenho de Algoritmos.
 Métodos Avançados de Programação.
 Paradigmas de Programação.
