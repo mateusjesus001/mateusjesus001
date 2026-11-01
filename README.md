@@ -42,6 +42,7 @@ Segurança de aplicações web.
 Persistência e mapeamento objeto-relacional (ORM).
 Hibernate e integração com bancos de dados relacionais.
 Arquitetura e estruturação de aplicações back-end.
+
 🌐 Front-End e Desenvolvimento de Interfaces
 
 <div align="left">
@@ -53,6 +54,7 @@ Estruturação de projetos com Vite.
 Criação de interfaces responsivas e sofisticadas.
 Prototipação e design de interfaces com Figma.
 Integração entre aplicações front-end e APIs.
+
 🎮 Desenvolvimento de Jogos e Computação Gráfica
 
 <div align="left">
@@ -64,6 +66,7 @@ Programação de mecânicas e sistemas de gameplay.
 Desenvolvimento de jogos em ambiente 3D.
 Modelagem tridimensional e criação de assets.
 Desenvolvimento de elementos visuais e recursos para jogos.
+
 🔧 Ferramentas, Versionamento e Ambiente de Desenvolvimento
 
 <div align="left">
@@ -84,6 +87,7 @@ Banco de Dados e Modelagem de Dados.
 Análise e Projeto de Sistemas.
 Fundamentos de Engenharia de Software.
 Fundamentos de Inteligência Artificial.
+
 🤖 Inteligência Artificial e Automação
 
 <div align="left">
