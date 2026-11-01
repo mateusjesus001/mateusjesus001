@@ -26,7 +26,7 @@ Meu objetivo é desenvolver soluções tecnológicas eficientes, escaláveis e b
 
 <div align="left">
 <img height="42" src="https://skillicons.dev/icons?i=c,cpp,python,java,cs,js,ts" />
-<img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" title="Assembly"/>
+<img height="42" src="https://img.shields.io/badge/ASSEMBLY-525252?style=for-the-badge&logoColor=white" />
 </div>
 
 ⚙️ Back-End e Desenvolvimento de Sistemas
@@ -115,6 +115,7 @@ Automação de tarefas e fluxos de desenvolvimento.
 Integração de ferramentas de IA em processos de engenharia de software.
 Utilização de IA para acelerar a implementação, análise e manutenção de projetos.
 Orquestração inteligente de ferramentas e serviços para aumentar a produtividade.
+
 🚀 Projetos e Experiências
 
 Tenho interesse em desenvolver projetos que envolvam diferentes áreas da computação, especialmente:
