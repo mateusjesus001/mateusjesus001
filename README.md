@@ -21,7 +21,8 @@ Tenho particular interesse na integração entre desenvolvimento de software e I
 
 Meu objetivo é desenvolver soluções tecnológicas eficientes, escaláveis e bem estruturadas, unindo conhecimento técnico, pensamento analítico e criatividade.
 
-🛠️ Competências e Tecnologias
+🛠️ Competências e Tecnologias:
+
 💻 Linguagens de Programação
 
 <div>
