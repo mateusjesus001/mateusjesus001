@@ -47,6 +47,7 @@ Segurança de aplicações web.
 Persistência e mapeamento objeto-relacional (ORM).
 Hibernate e integração com bancos de dados relacionais.
 Arquitetura e estruturação de aplicações back-end.
+
 🌐 Front-End e Desenvolvimento de Interfaces
 
 <div>
