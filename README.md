@@ -64,6 +64,7 @@ Estruturação de projetos com Vite.
 Criação de interfaces responsivas e sofisticadas.
 Prototipação e design de interfaces com Figma.
 Integração entre aplicações front-end e APIs.
+
 🎮 Desenvolvimento de Jogos e Computação Gráfica
 
 <div>
