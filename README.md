@@ -21,43 +21,31 @@ Tenho particular interesse na integração entre desenvolvimento de software e I
 
 Meu objetivo é desenvolver soluções tecnológicas eficientes, escaláveis e bem estruturadas, unindo conhecimento técnico, pensamento analítico e criatividade.
 
-🛠️ Competências e Tecnologias:
-
+🛠️ Competências e Tecnologias
 💻 Linguagens de Programação
 
-<div>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#"/>
+<div align="left">
+<img height="42" src="https://skillicons.dev/icons?i=c,cpp,python,java,cs,js,ts" />
 </div>
 
 ⚙️ Back-End e Desenvolvimento de Sistemas
 
-<div>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" title="Hibernate"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL"/>
+<div align="left">
+<img height="42" src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,hibernate,mysql,postgres,sqlite,redis" />
 </div>
 
 Desenvolvimento de APIs REST.
+Desenvolvimento com Spring Boot e ASP.NET Core.
+Desenvolvimento de aplicações utilizando Node.js.
 Autenticação e autorização com JWT.
 Segurança de aplicações web.
 Persistência e mapeamento objeto-relacional (ORM).
 Hibernate e integração com bancos de dados relacionais.
 Arquitetura e estruturação de aplicações back-end.
-
 🌐 Front-End e Desenvolvimento de Interfaces
 
-<div>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" title="Vite"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma"/>
+<div align="left">
+<img height="42" src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,figma" />
 </div>
 
 Desenvolvimento de aplicações modernas com React e Next.js.
@@ -65,12 +53,10 @@ Estruturação de projetos com Vite.
 Criação de interfaces responsivas e sofisticadas.
 Prototipação e design de interfaces com Figma.
 Integração entre aplicações front-end e APIs.
-
 🎮 Desenvolvimento de Jogos e Computação Gráfica
 
-<div>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" title="Godot Engine"/>
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" title="Blender"/>
+<div align="left">
+<img height="42" src="https://skillicons.dev/icons?i=godot,blender,unity" />
 </div>
 
 Desenvolvimento de jogos com Godot Engine.
@@ -78,6 +64,17 @@ Programação de mecânicas e sistemas de gameplay.
 Desenvolvimento de jogos em ambiente 3D.
 Modelagem tridimensional e criação de assets.
 Desenvolvimento de elementos visuais e recursos para jogos.
+🔧 Ferramentas, Versionamento e Ambiente de Desenvolvimento
+
+<div align="left">
+<img height="42" src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,vscode,visualstudio,postman" />
+</div>
+
+Controle de versão com Git e GitHub.
+Gerenciamento e organização de projetos.
+Containerização e ambientes de desenvolvimento com Docker.
+Utilização de ambientes Linux e linha de comando.
+Testes e documentação de APIs com Postman.
 🧠 Fundamentos da Computação e Engenharia
 Estruturas de Dados e Algoritmos.
 Análise de Complexidade e Desempenho de Algoritmos.
@@ -88,6 +85,11 @@ Análise e Projeto de Sistemas.
 Fundamentos de Engenharia de Software.
 Fundamentos de Inteligência Artificial.
 🤖 Inteligência Artificial e Automação
+
+<div align="left">
+<img height="42" src="https://skillicons.dev/icons?i=python" />
+</div>
+
 Utilização estratégica de ferramentas de Inteligência Artificial no desenvolvimento.
 Integração e utilização de MCPs (Model Context Protocol).
 Automação de tarefas e fluxos de desenvolvimento.
