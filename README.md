@@ -130,8 +130,6 @@ Computação Gráfica: modelagem 3D e criação de recursos visuais.
 Programação de Baixo Nível: C, C++, Assembly e fundamentos da arquitetura computacional.
 IA e Automação: integração de ferramentas inteligentes, MCPs e automação de processos.
 
-Entre minhas experiências práticas, destaco o desenvolvimento de um jogo de luta funcional em 3D utilizando Godot Engine, além da construção de aplicações web com autenticação, segurança, persistência de dados e integração entre diferentes camadas de software.
-
 📫 Conecte-se Comigo
 
 Estou sempre aberto a oportunidades, networking, colaborações e discussões sobre tecnologia, desenvolvimento de software, inteligência artificial e inovação.
